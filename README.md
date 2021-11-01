@@ -45,7 +45,6 @@ I find great satisfaction in extracting insights from data that enhance decision
 [![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithlouis&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 <!--
 **keithlouis/keithlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
