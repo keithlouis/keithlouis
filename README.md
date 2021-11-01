@@ -38,7 +38,11 @@ I find great satisfaction in extracting insights from data that enhance decision
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+## &#x1f4c8; My GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<keithlouis>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=<keithlouis>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
