@@ -15,6 +15,13 @@ Well versed in presenting to executive staff and driving cross-functional collab
 
 I find great satisfaction in extracting insights from data that enhance decision-making and drive competitive growth. As well as educating individuals on the financial industry as a whole through my [Blog](https://www.immigrantfinancial.com/).
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visual studio code logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="solidity logo" width="50" height="50" />
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!--
 **keithlouis/keithlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
