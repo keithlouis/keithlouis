@@ -44,6 +44,14 @@ I find great satisfaction in extracting insights from data that enhance decision
 
 [![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithlouis&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+📈 Activity Graph
+
+[![Keith's github activity graph](https://activity-graph.herokuapp.com/graph?username=keithlouis&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
