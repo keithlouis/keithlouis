@@ -9,6 +9,8 @@ Hello there 👋🏽, I am Keith Louis!
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+
+
 Financial advisor/planner with a certificate in FinTech from the University of Toronto and 10+ years of
 experience in financial services. Proven technical and leadership aptitude in Managerial Financial Sales, financial modeling, and forecasting. 
 
@@ -44,21 +46,32 @@ I find great satisfaction in extracting insights from data that enhance decision
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-📊 My GitHub Stats
+
+<!-- STATISTICS -->
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740898-1b47e000-df13-11eb-9518-037652dceeb8.png" width="50px" />
+<h2 id="statistics"> Statistics</h2>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keithlouis&hide=java,html,css&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) [![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=keithlouis&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-📈 Activity Graph
+<!-- ACTIVITY GRAPH -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124741011-3581be00-df13-11eb-8d9a-b44e6fe248a8.png" width="50px" />
+<h2 id="activity-graph"> Activity Graph</h2>
+
 
 [![Keith's github activity graph](https://activity-graph.herokuapp.com/graph?username=keithlouis&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h3>Where to find me</h3>
+<!-- WEB CONNECT -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739746-10d91680-df12-11eb-86cd-9aa9494e01bd.png" width="50px" />
+<h2 id="web-connect"> Web Connect</h2>
+
+
 <p><a href="https://github.com/keithlouis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/kweyol" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/keith-louis-b6254725" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 <!--
