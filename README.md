@@ -9,7 +9,36 @@ Hello there 👋🏽, I am Keith Louis!
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<!-- TABLE OF CONTENTS -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124740340-9eb50180-df12-11eb-9295-e33ac2752c57.png" width="50px" />
+<h2 id="table-of-contents"> Table of Contents</h2>
 
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#Background"> ➤ Background</a></li>
+    <li><a href="#Tool-Box"> ➤ Tool Box</a></li>
+    <li><a href="#The-role-of-finance"> ➤ The role of finance</a></li>
+    <li><a href="#Finance-Cycles"> ➤ Finance Cycles</a></li>
+    <li><a href="#Self-service"> ➤ Self-service</a></li>
+    <li><a href="#Operating-Models"> ➤ Operating Models</a></li>
+    <li><a href="#Enterprise-resource-planning"> ➤ Enterprise resource planning</a></li>
+    <li><a href="#Data"> ➤ Data</a></li>
+    <li><a href="#Workforce-and-workplace"> ➤ Workforce and workplace</a></li>
+    <li><a href="about-the-project"> ➤ About The Project</a></li>
+    <li><a href="#Prerequisites"> ➤ Prerequisites</a></li>
+    <li><a href="#Project-roadmap"> ➤ Project Roadmap</a></li>
+    <li>
+      <a href="#Deliverables"> ➤ Deliverables</a>
+      <ul>
+        <li><a href="#Key-Project-Features">Key Project Features</a></li>
+      </ul>
+    </li>
+    <!--<li><a href="#experiments">Experiments</a></li>-->
+    <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
+    <li><a href="#references"> ➤ References</a></li>
+    <li><a href="#contributors"> ➤ Contributors</a></li>
+  </ol>
   
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
