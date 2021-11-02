@@ -25,18 +25,12 @@ I find great satisfaction in extracting insights from data that enhance decision
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+📚 Current Projects
 
-📚 Latest Blog Articles
 
-<!-- BLOG-POST-LIST:START -->
-- [Staying Active..](/blog/staying-active)
-- [Mortgage Insurance](/blog/2020/10/14/mortgage-insurance)
-- [Group Insurance plans..](/blog/group-insurance)
-- [Protection for the family......The need for life Insurance](/blog/2018/08/18/protection-for-the-family)
-- [Term Insurance Plans..](/blog/2020/07/20/term-insurance-plans)
-<!-- BLOG-POST-LIST:END -->
+▶ [Blog](https://www.immigrantfinancial.com)
 
-▶ [...more blog articles](https://www.immigrantfinancial.com)
+▶ [cropsure](https://www.cropsure.online)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
