@@ -1,4 +1,5 @@
-Hello there 👋🏽, I am Keith Louis!
+<h3 align="center">Hello there 👋🏽, I am Keith Louis!</h3>
+
 
 <h1 align="center">This is my Awesome GitHub Profile README 
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"></a></h1>
