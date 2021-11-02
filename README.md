@@ -10,13 +10,13 @@ Hello there 👋🏽, I am Keith Louis!
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- TABLE OF CONTENTS -->
- <img align="left" src="https://user-images.githubusercontent.com/65415371/124740340-9eb50180-df12-11eb-9295-e33ac2752c57.png" width="50px" />
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124740340-9eb50180-df12-11eb-9295-e33ac2752c57.png" width="35px" />
 <h2 id="table-of-contents"> Table of Contents</h2>
 
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#Background"> ➤ Background</a></li>
+    <li><a href="#About-Myself"> ➤ About Myself</a></li>
     <li><a href="#ToolBox"> ➤ Toolbox</a></li>
     <li><a href="#Current-Projects"> ➤ Current Projects</a></li>
     <li><a href="#Statistics"> ➤ Statistics</a></li>
@@ -25,6 +25,12 @@ Hello there 👋🏽, I am Keith Louis!
   </ol>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ <!-- ABOUT Myself -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739629-f43cde80-df11-11eb-9033-c5d1d7194f03.png" width="35px" />
+<h2 id="about-myself"> About Myself</h2>
+ 
+ <p align="justify">
 
 Financial advisor/planner with a certificate in FinTech from the University of Toronto and 10+ years of
 experience in financial services. Proven technical and leadership aptitude in Managerial Financial Sales, financial modeling, and forecasting. 
@@ -39,19 +45,19 @@ I find great satisfaction in extracting insights from data that enhance decision
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
   <!-- TOOLBOX -->
-  <img align="left" src="https://user-images.githubusercontent.com/65415371/124740780-04a18900-df13-11eb-8a53-ad66e031b55f.png" width="50px" />
+  <img align="left" src="https://user-images.githubusercontent.com/65415371/124740780-04a18900-df13-11eb-8a53-ad66e031b55f.png" width="35px" />
 <h2 id="toolbox">Toolbox</h2>
 
 
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visual studio code logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="solidity logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/blockchain.svg" alt="blockchain logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Python logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visual studio code logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress logo" width="40" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="solidity logo" width="40" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/blockchain.svg" alt="blockchain logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Python logo" width="40" height="40" />
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 <!-- CURRENT PROJECTS -->
- <img align="left" src="https://user-images.githubusercontent.com/65415371/124739888-2cdcb800-df12-11eb-8952-5be64764a7aa.png" width="50px" />
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739888-2cdcb800-df12-11eb-8952-5be64764a7aa.png" width="35px" />
 <h2 id="current-projects"> Current Projects</h2>
 
 
@@ -63,7 +69,7 @@ I find great satisfaction in extracting insights from data that enhance decision
 
 
 <!-- STATISTICS -->
-<img align="left" src="https://user-images.githubusercontent.com/65415371/124740898-1b47e000-df13-11eb-9518-037652dceeb8.png" width="50px" />
+<img align="left" src="https://user-images.githubusercontent.com/65415371/124740898-1b47e000-df13-11eb-9518-037652dceeb8.png" width="35px" />
 <h2 id="statistics"> Statistics</h2>
 
 
@@ -73,7 +79,7 @@ I find great satisfaction in extracting insights from data that enhance decision
 
 
 <!-- ACTIVITY GRAPH -->
- <img align="left" src="https://user-images.githubusercontent.com/65415371/124741011-3581be00-df13-11eb-8d9a-b44e6fe248a8.png" width="50px" />
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124741011-3581be00-df13-11eb-8d9a-b44e6fe248a8.png" width="35px" />
 <h2 id="activity-graph"> Activity Graph</h2>
 
 
@@ -83,7 +89,7 @@ I find great satisfaction in extracting insights from data that enhance decision
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- WEB CONNECT -->
- <img align="left" src="https://user-images.githubusercontent.com/65415371/124739746-10d91680-df12-11eb-86cd-9aa9494e01bd.png" width="50px" />
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739746-10d91680-df12-11eb-86cd-9aa9494e01bd.png" width="35px" />
 <h2 id="web-connect"> Web Connect</h2>
 
 
