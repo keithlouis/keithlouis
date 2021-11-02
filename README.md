@@ -9,6 +9,24 @@ Hello there 👋🏽, I am Keith Louis!
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<!-- TABLE OF CONTENTS -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124740340-9eb50180-df12-11eb-9295-e33ac2752c57.png" width="50px" />
+<h2 id="table-of-contents"> Table of Contents</h2>
+
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#Background"> ➤ Background</a></li>
+    <li><a href="#The-finance-Factory"> ➤ The Finance Factory</a></li>
+    <li><a href="#The-role-of-finance"> ➤ The role of finance</a></li>
+    <li><a href="#Finance-Cycles"> ➤ Finance Cycles</a></li>
+    <li><a href="#Self-service"> ➤ Self-service</a></li>
+    <li><a href="#Operating-Models"> ➤ Operating Models</a></li>
+    <li><a href="#Enterprise-resource-planning"> ➤ Enterprise resource planning</a></li>
+  </ol>
+  
+  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 Financial advisor/planner with a certificate in FinTech from the University of Toronto and 10+ years of
 experience in financial services. Proven technical and leadership aptitude in Managerial Financial Sales, financial modeling, and forecasting. 
 
