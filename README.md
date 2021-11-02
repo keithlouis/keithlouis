@@ -1,5 +1,4 @@
-<img width=45% src="(https://user-images.githubusercontent.com/83662813/139909881-a948b621-b451-484c-8db6-1107b51da444.png"></p>
-
+<!-- <img width=45% src="https://user-images.githubusercontent.com/83662813/139909881-a948b621-b451-484c-8db6-1107b51da444.png"></p> -->
 
 <h3 align="center">Hello there 👋🏽, I am Keith Louis!</h3>
 
@@ -98,6 +97,10 @@ I find great satisfaction in extracting insights from data that enhance decision
 
 
 <p><a href="https://github.com/keithlouis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/kweyol" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/keith-louis-b6254725" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ 
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+ <p align="left"><img width=10% src="https://user-images.githubusercontent.com/83662813/139910946-165e769e-9e28-40a5-9246-e523157f3b10.jpg"></p>
 
 <!--
 **keithlouis/keithlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
