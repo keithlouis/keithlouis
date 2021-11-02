@@ -3,7 +3,9 @@ Hello there 👋🏽, I am Keith Louis!
 <h1 align="center">This is my Awesome GitHub Profile README 
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"></a></h1>
 
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> [![Twitter Follow](https://img.shields.io/twitter/follow/kweyol?label=follow%20me%20on%20twitter&style=social)](https://twitter.com/home?lang=en-ca) ![GitHub followers](https://img.shields.io/github/followers/keithlouis?style=social)
+<h1 align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></h1>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -46,6 +48,7 @@ I find great satisfaction in extracting insights from data that enhance decision
 [![Keith's github activity graph](https://activity-graph.herokuapp.com/graph?username=keithlouis&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/keithlouis" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/kweyol" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/keith-louis-b6254725" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
