@@ -21,18 +21,26 @@ I find great satisfaction in extracting insights from data that enhance decision
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-🧰 Toolbox
+  <!-- TOOLBOX -->
+  <img align="left" src="https://user-images.githubusercontent.com/65415371/124740780-04a18900-df13-11eb-8a53-ad66e031b55f.png" width="50px" />
+<h2 id="toolbox">Toolbox</h2>
+
+
+
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="slack logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="visual studio code logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="wordpress logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="solidity logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/blockchain.svg" alt="blockchain logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Python logo" width="50" height="50" />
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-📚 Current Projects
+
+<!-- CURRENT PROJECTS -->
+ <img align="left" src="https://user-images.githubusercontent.com/65415371/124739888-2cdcb800-df12-11eb-8952-5be64764a7aa.png" width="50px" />
+<h2 id="current-projects"> Current Projects</h2>
 
 
-▶ [Blog](https://www.immigrantfinancial.com)
+[Blog](https://www.immigrantfinancial.com)
 
-▶ [cropsure](https://www.cropsure.online)
+[cropsure](https://www.cropsure.online)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
