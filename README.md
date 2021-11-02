@@ -1,7 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Keith Louis!
+<div align="center">
+Hello there 👋🏽, I am Keith Louis!
 
----
-
+<h1 align="center">This is my Awesome GitHub Profile README 
+<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"></a></h1>
+<div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kweyol?label=follow%20me%20on%20twitter&style=social)](https://twitter.com/home?lang=en-ca) ![GitHub followers](https://img.shields.io/github/followers/keithlouis?style=social)
 
