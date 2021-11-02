@@ -18,26 +18,10 @@ Hello there 👋🏽, I am Keith Louis!
   <ol>
     <li><a href="#Background"> ➤ Background</a></li>
     <li><a href="#ToolBox"> ➤ Toolbox</a></li>
-    <li><a href="#The-role-of-finance"> ➤ The role of finance</a></li>
-    <li><a href="#Finance-Cycles"> ➤ Finance Cycles</a></li>
-    <li><a href="#Self-service"> ➤ Self-service</a></li>
-    <li><a href="#Operating-Models"> ➤ Operating Models</a></li>
-    <li><a href="#Enterprise-resource-planning"> ➤ Enterprise resource planning</a></li>
-    <li><a href="#Data"> ➤ Data</a></li>
-    <li><a href="#Workforce-and-workplace"> ➤ Workforce and workplace</a></li>
-    <li><a href="about-the-project"> ➤ About The Project</a></li>
-    <li><a href="#Prerequisites"> ➤ Prerequisites</a></li>
-    <li><a href="#Project-roadmap"> ➤ Project Roadmap</a></li>
-    <li>
-      <a href="#Deliverables"> ➤ Deliverables</a>
-      <ul>
-        <li><a href="#Key-Project-Features">Key Project Features</a></li>
-      </ul>
-    </li>
-    <!--<li><a href="#experiments">Experiments</a></li>-->
-    <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
-    <li><a href="#references"> ➤ References</a></li>
-    <li><a href="#contributors"> ➤ Contributors</a></li>
+    <li><a href="#Current-Projects"> ➤ Current Projects</a></li>
+    <li><a href="#Statistics"> ➤ Statistics</a></li>
+    <li><a href="#Activity-Graph"> ➤ Activity Graph</a></li>
+    <li><a href="#Web-Connect"> ➤ Web Connect</a></li>
   </ol>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
