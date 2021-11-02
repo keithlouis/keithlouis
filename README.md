@@ -17,7 +17,7 @@ Hello there 👋🏽, I am Keith Louis!
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#Background"> ➤ Background</a></li>
-    <li><a href="#The-finance-Factory"> ➤ The Finance Factory</a></li>
+    <li><a href="#Tool Box"> ➤ Tool box</a></li>
     <li><a href="#The-role-of-finance"> ➤ The role of finance</a></li>
     <li><a href="#Finance-Cycles"> ➤ Finance Cycles</a></li>
     <li><a href="#Self-service"> ➤ Self-service</a></li>
