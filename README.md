@@ -67,6 +67,8 @@ I find great satisfaction in extracting insights from data that enhance decision
 [Blog](https://www.immigrantfinancial.com)
 
 [cropsure](https://www.cropsure.online)
+ 
+[Defi Cropsure App](https://klouis.pythonanywhere.com) 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
