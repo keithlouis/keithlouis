@@ -1,5 +1,3 @@
-<!-- <img width=45% src="https://user-images.githubusercontent.com/83662813/139909881-a948b621-b451-484c-8db6-1107b51da444.png"></p> -->
-
 <h3 align="center">Hello there 👋🏽, I am Keith Louis!</h3>
 
 
@@ -102,8 +100,7 @@ I find great satisfaction in extracting insights from data that enhance decision
  
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
- <p align="left"><img width=10% src="https://user-images.githubusercontent.com/83662813/139910946-165e769e-9e28-40a5-9246-e523157f3b10.jpg"></p>
-
+ 
 <!--
 **keithlouis/keithlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
