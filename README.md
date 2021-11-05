@@ -12,31 +12,15 @@
 
 <p align="center">
   <a href="#About-Myself">About Myself</a> |
-  <a href="#how-to-use">How To Use</a> |
-  <a href="#download">Download</a> |
-  <a href="#credits">Credits</a> |
-  <a href="#related">Related</a> |
-  <a href="#license">License</a>
+  <a href="#ToolBox">Toolbox</a> |
+  <a href="#Current-Projects">Current Projects</a> |
+  <a href="#Statistics">Statistics</a> |
+  <a href="#Activity-Graph">Activity Graph</a> |
+  <a href="#Web-Connect">Web Connect</a>
 </p>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- TABLE OF CONTENTS -->
- <img align="left" src="https://user-images.githubusercontent.com/65415371/124740340-9eb50180-df12-11eb-9295-e33ac2752c57.png" width="35px" />
-<h2 id="table-of-contents"> Table of Contents</h2>
-
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#About-Myself"> ➤ About Myself</a></li>
-    <li><a href="#ToolBox"> ➤ Toolbox</a></li>
-    <li><a href="#Current-Projects"> ➤ Current Projects</a></li>
-    <li><a href="#Statistics"> ➤ Statistics</a></li>
-    <li><a href="#Activity-Graph"> ➤ Activity Graph</a></li>
-    <li><a href="#Web-Connect"> ➤ Web Connect</a></li>
-  </ol>
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
  
  <!-- ABOUT Myself -->
