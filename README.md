@@ -10,6 +10,15 @@
 <h1 align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></h1>
 
+<p align="center">
+  <a href="#About-Myself">About Myself</a> |
+  <a href="#how-to-use">How To Use</a> |
+  <a href="#download">Download</a> |
+  <a href="#credits">Credits</a> |
+  <a href="#related">Related</a> |
+  <a href="#license">License</a>
+</p>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
