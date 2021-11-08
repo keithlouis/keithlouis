@@ -5,12 +5,6 @@
      alt="Size Limit logo by Anton Lovchikov" width="620" height="478">
 
 
-
-
-
-
-
-
 - 🔭 I’m currently working on a decentralized finance project, which would make crop insurance available to farmers on a blockchain.
 
 - 🌱 I’m currently learning some python modules, and to be more specidic, Django.
