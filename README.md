@@ -1,4 +1,4 @@
-<h3 align="center">Hello there 👋🏽, I am Keith Louis!</h3>
+<h3 align="left">Hello there 👋🏽, I am Keith Louis!</h3>
 
 
 <img src="https://user-images.githubusercontent.com/83662813/140205778-0151d303-09ab-43be-85b4-3f3f50cf42bc.gif" align="right"
@@ -12,10 +12,15 @@
 
 
 - 🔭 I’m currently working on a decentralized finance project, which would make crop insurance available to farmers on a blockchain.
+
 - 🌱 I’m currently learning some python modules, and to be more specidic, Django.
-- 👯 I’m looking to collaborate on other similar projects in Defi
+
+- 👯 I’m looking to collaborate on other similar projects in Decentralized Finance.
+
 - 💬 Ask me about Fintech
+
 - 📫 How to reach me: See the links below for my web-connects.
+
 - ⚡ Fun fact: Have you ever wondered what the arrow on the side of your gas pump icon on your dash is for? It's to point out which side of the car your gas tank is on.
 
 
@@ -25,7 +30,7 @@
   <img src="https://user-images.githubusercontent.com/83662813/140817176-a9596fce-3fe0-4b40-9696-2df97b7e1529.png">
 </p>
 
-<h1 align="center">This is my Awesome GitHub Profile README 
+<h1 align="center">This is my FinTech GitHub Profile README 
 <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"></a></h1>
 
 <h1 align="center">
