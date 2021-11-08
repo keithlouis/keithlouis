@@ -1,5 +1,9 @@
 <h3 align="center">Hello there 👋🏽, I am Keith Louis!</h3>
 
+![102decb573f5b2afd375bda2c7760eba](https://user-images.githubusercontent.com/83662813/140817176-a9596fce-3fe0-4b40-9696-2df97b7e1529.png)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/83662813/140205778-0151d303-09ab-43be-85b4-3f3f50cf42bc.gif">
 </p>
