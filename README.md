@@ -2,7 +2,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/83662813/140205778-0151d303-09ab-43be-85b4-3f3f50cf42bc.gif" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="620" height="478">
+     alt="Coding Gif by Keith Louis" width="520" height="378">
 
 
 - 🔭 I’m currently working on a decentralized finance project, which would make crop insurance available to farmers on a blockchain.
