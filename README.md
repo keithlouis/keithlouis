@@ -1,6 +1,25 @@
 <h3 align="center">Hello there 👋🏽, I am Keith Louis!</h3>
 
-![102decb573f5b2afd375bda2c7760eba](https://user-images.githubusercontent.com/83662813/140817176-a9596fce-3fe0-4b40-9696-2df97b7e1529.png)
+
+<img src="https://user-images.githubusercontent.com/83662813/140817176-a9596fce-3fe0-4b40-9696-2df97b7e1529.png" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="620" height="478">
+
+
+
+
+
+
+
+
+
+- 🔭 I’m currently working on a decentralized finance project, which would make crop insurance available to farmers on a blockchain.
+- 🌱 I’m currently learning some python modules, and to be more specidic, Django.
+- 👯 I’m looking to collaborate on other similar projects in Defi
+- 💬 Ask me about Fintech
+- 📫 How to reach me: See the links below for my web-connects.
+- 😄 Pronouns: ...
+- ⚡ Fun fact: After a day of coding, time spent with a John Grisham novel is refreshing.
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
