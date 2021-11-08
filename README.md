@@ -1,9 +1,8 @@
 <h3 align="center">Hello there 👋🏽, I am Keith Louis!</h3>
 
 
-<img src="https://user-images.githubusercontent.com/83662813/140817176-a9596fce-3fe0-4b40-9696-2df97b7e1529.png" align="right"
+<img src="https://user-images.githubusercontent.com/83662813/140205778-0151d303-09ab-43be-85b4-3f3f50cf42bc.gif" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="620" height="478">
-
 
 
 
@@ -17,14 +16,13 @@
 - 👯 I’m looking to collaborate on other similar projects in Defi
 - 💬 Ask me about Fintech
 - 📫 How to reach me: See the links below for my web-connects.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: After a day of coding, time spent with a John Grisham novel is refreshing.
+- ⚡ Fun fact: Have you ever wondered what the arrow on the side of your gas pump icon on your dash is for? It's to point out which side of the car your gas tank is on.
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/83662813/140205778-0151d303-09ab-43be-85b4-3f3f50cf42bc.gif">
+  <img src="https://user-images.githubusercontent.com/83662813/140817176-a9596fce-3fe0-4b40-9696-2df97b7e1529.png">
 </p>
 
 <h1 align="center">This is my Awesome GitHub Profile README 
