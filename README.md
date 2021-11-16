@@ -21,7 +21,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/83662813/140817176-a9596fce-3fe0-4b40-9696-2df97b7e1529.png">
+  <img src="https://user-images.githubusercontent.com/83662813/141875866-d94900a4-b8a4-435f-bc0e-727ccdfcaf91.jpg">
 </p>
 
 <h1 align="center">This is my FinTech GitHub Profile README 
